@@ -1,4 +1,0 @@
-.vimrc -> ~/.vimrc
-coc.vim -> ~/.vim/coc.vim
-UltiSnips -> ~/.vim/UltiSnips
-.bashrc -> ~/.bashrc
