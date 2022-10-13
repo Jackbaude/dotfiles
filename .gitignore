@@ -1,4 +1,4 @@
-./create_links
+create_links
 idea/dotfiles.iml
 idea/modules.xml
 idea/vcs.xml
